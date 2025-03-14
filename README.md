@@ -151,6 +151,7 @@ Me chamo Fernando Furlanetto, tenho 21 anos e sou natural de São João Da Boa V
 </p>
 
 <br>
+<br>
 
 ### 📱 Redes sociais
 <a href="https://www.instagram.com/ferfurlanetto_/"><img align=left 
