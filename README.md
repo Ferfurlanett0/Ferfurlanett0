@@ -19,14 +19,14 @@ Me chamo Fernando Furlanetto, tenho 21 anos e sou natural de São João Da Boa V
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCFJNQ386nX0C-cvHECDY_WA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
-    <a href="https://github.com/ferfurlanett0?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Ferfurlanett0?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/ferfurlanett0?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/ferfurlanett0?tab=followers">
+    <a href="https://github.com/Ferfurlanett0?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
