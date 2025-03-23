@@ -138,14 +138,14 @@ Me chamo Fernando Furlanetto, tenho 21 anos e sou natural de São João Da Boa V
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ferfurlanett0&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Ferfurlanett0&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferfurlanett0&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferfurlanett0&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
