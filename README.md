@@ -1,7 +1,5 @@
-<h1 align="center">Fernando Furlanetto</h1>
-
 <p align="center">
-  Desenvolvedor Full Stack · Bacharel em Ciência da Computação · Tecnólogo em ADS
+  <img src="./assets/profile-header.svg" alt="Fernando Furlanetto — Desenvolvedor Full Stack" width="100%">
 </p>
 
 <p align="center">
@@ -16,10 +14,18 @@ Tenho 22 anos e sou de São João da Boa Vista, SP. Sou bacharel em Ciência da 
 
 Atualmente trabalho como **Analista de Suporte Júnior II na CTC**, atuando com suporte a usuários e sistemas, infraestrutura, redes e segurança da informação. Em paralelo, desenvolvo aplicações Full Stack focadas em resolver problemas reais — da experiência da interface à integração com APIs, automações e serviços em nuvem.
 
+> Gosto de começar pelo problema, entregar algo que possa ser usado de verdade e evoluir a solução a partir do uso real.
+
 - Desenvolvimento web com React, TypeScript, JavaScript, Node.js e Python
 - Integrações, APIs, automações e soluções apoiadas por inteligência artificial
 - Docker, AWS, Oracle Cloud, redes e suporte técnico
 - UX/UI, qualidade de software e visão prática de produto
+
+## Foco atual
+
+- Evoluir o **Compry App** como uma experiência multiplataforma confiável, inclusive sem internet
+- Aplicar **inteligência artificial** em produtos úteis, como preparação profissional e automações
+- Aproximar desenvolvimento, infraestrutura e suporte para criar software mais simples de operar
 
 ## Projetos em destaque
 
@@ -60,8 +66,8 @@ Atualmente trabalho como **Analista de Suporte Júnior II na CTC**, atuando com 
 
 ## Formação e certificações
 
-- **Bacharelado em Ciência da Computação** — UNIFEOB, concluído em 2025
-- **Tecnologia em Análise e Desenvolvimento de Sistemas** — UNIFEOB, concluído em 2024
+- **[Bacharelado em Ciência da Computação](https://diploma.unifeob.edu.br/diploma/#/1836.1836.eba3f1d597b3)** — UNIFEOB, concluído em 2025
+- **[Tecnologia em Análise e Desenvolvimento de Sistemas](https://diploma.unifeob.edu.br/diploma/#/1836.1836.21a799ba4fcf)** — UNIFEOB, concluído em 2024
 - **NLW Agents — Avançado** — Rocketseat
 - **AWS Academy Cloud Foundations** — Amazon Web Services
 - **Desenvolvimento Web com AngularJS** e **UX/UI Design** — Unicamp

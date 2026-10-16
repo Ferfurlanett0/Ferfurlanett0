@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
+  <title id="title">Fernando Furlanetto — Desenvolvedor Full Stack</title>
+  <desc id="description">Banner azul e violeta com uma composição tecnológica inspirada no portfólio de Fernando.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#030712"/>
+      <stop offset="0.62" stop-color="#081127"/>
+      <stop offset="1" stop-color="#12082f"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="0.5" stop-color="#3b82f6"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <linearGradient id="cubeFront" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#15244b"/>
+      <stop offset="1" stop-color="#070b1b"/>
+    </linearGradient>
+    <linearGradient id="cubeTop" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#334b78"/>
+      <stop offset="1" stop-color="#111a37"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#2563eb" stroke-opacity="0.14"/>
+    </pattern>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" rx="24" fill="url(#background)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#grid)" opacity="0.7"/>
+  <circle cx="1020" cy="124" r="180" fill="#2563eb" opacity="0.08"/>
+  <circle cx="1110" cy="210" r="150" fill="#7c3aed" opacity="0.09"/>
+
+  <g fill="#60a5fa">
+    <circle cx="780" cy="56" r="3"/><circle cx="842" cy="98" r="2"/><circle cx="1094" cy="50" r="3"/>
+    <circle cx="1144" cy="126" r="2"/><circle cx="752" cy="226" r="2"/><circle cx="1016" cy="256" r="3"/>
+  </g>
+  <g stroke="#2563eb" stroke-opacity="0.38" fill="none">
+    <path d="M780 56L842 98L914 70M1018 256L1080 216L1144 230"/>
+    <path d="M1094 50L1144 126L1100 170"/>
+  </g>
+
+  <text x="72" y="92" fill="#7dd3fc" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="650" letter-spacing="3">OLÁ, EU SOU</text>
+  <text x="68" y="159" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="55" font-weight="750">Fernando Furlanetto</text>
+  <text x="72" y="203" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">Desenvolvedor Full Stack · Suporte · Infraestrutura</text>
+  <rect x="72" y="234" width="505" height="4" rx="2" fill="url(#accent)"/>
+  <text x="72" y="269" fill="#94a3b8" font-family="Segoe UI, Arial, sans-serif" font-size="17">Software útil para problemas reais.</text>
+
+  <g transform="translate(900 55)">
+    <path d="M0 52L104 0L208 52L104 104Z" fill="url(#cubeTop)" stroke="#60a5fa" stroke-opacity="0.42"/>
+    <path d="M0 52L104 104V218L0 166Z" fill="#0b1430" stroke="#3b82f6" stroke-opacity="0.42"/>
+    <path d="M104 104L208 52V166L104 218Z" fill="url(#cubeFront)" stroke="#8b5cf6" stroke-opacity="0.5"/>
+    <path d="M139 130L122 143L139 156M173 130L190 143L173 156M162 121L150 165" fill="none" stroke="url(#accent)" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"/>
+  </g>
+
+  <rect x="0.75" y="0.75" width="1198.5" height="298.5" rx="23.25" fill="none" stroke="#60a5fa" stroke-opacity="0.2" stroke-width="1.5"/>
+</svg>
