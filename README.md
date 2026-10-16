@@ -1,155 +1,76 @@
-# 👨🏻‍💻 Fernando Furlanetto
+<h1 align="center">Fernando Furlanetto</h1>
 
-**`Front-end Developer`**
-
-Me chamo Fernando Furlanetto, tenho 21 anos e sou natural de São João Da Boa Vista - SP. Concluí o ensino médio no Externato. Atualmente sou formado em Análise e Desenvolvimento de Sistemas na UNIFEOB e estou completando o curso de Ciências da Computação na UNIFEOB. Sou apaixonado por tecnologia e games, possuo um canal no YouTube onde posto meus conteúdos de jogos "[MaNoWhITe](https://www.youtube.com/@MaNoWhite)".
-
-<p align="left">
-    <a href="https://www.youtube.com/@MaNoWhite">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCFJNQ386nX0C-cvHECDY_WA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@MaNoWhite">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCFJNQ386nX0C-cvHECDY_WA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Ferfurlanett0?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Ferfurlanett0?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Ferfurlanett0?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Ferfurlanett0?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<p align="center">
+  Desenvolvedor Full Stack · Bacharel em Ciência da Computação · Tecnólogo em ADS
 </p>
 
----
+<p align="center">
+  <a href="https://ferfurlanett0.github.io/myportifolio/"><img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/fernando-furlanetto-5b3439222/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:fernandopfurlanetto@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
-### 🤖 Linguagens e Tecnologias
+## Sobre mim
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node.js" 
-    title="Node.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://i.imgur.com/VRL6erP.png" 
-/>
+Tenho 22 anos e sou de São João da Boa Vista, SP. Sou bacharel em Ciência da Computação e tecnólogo em Análise e Desenvolvimento de Sistemas pela UNIFEOB.
 
+Atualmente trabalho como **Analista de Suporte Júnior II na CTC**, atuando com suporte a usuários e sistemas, infraestrutura, redes e segurança da informação. Em paralelo, desenvolvo aplicações Full Stack focadas em resolver problemas reais — da experiência da interface à integração com APIs, automações e serviços em nuvem.
 
+- Desenvolvimento web com React, TypeScript, JavaScript, Node.js e Python
+- Integrações, APIs, automações e soluções apoiadas por inteligência artificial
+- Docker, AWS, Oracle Cloud, redes e suporte técnico
+- UX/UI, qualidade de software e visão prática de produto
 
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
+## Projetos em destaque
 
+| Projeto | O que resolve | Acesso |
+|---|---|---|
+| **Compry App** | Gestão colaborativa de listas de compras, com funcionamento offline e sincronização em nuvem. | [Aplicação](https://compry-app.vercel.app) · [Código](https://github.com/Ferfurlanett0/compry_APP) |
+| **BeachClass** | Agenda, alunos, financeiro e lembretes automatizados para professores de Beach Tennis. | [Aplicação](https://beachapp.lovable.app) |
+| **Entrio IA** | Otimização de currículos e simulação de entrevistas por texto ou voz com inteligência artificial. | [Aplicação](https://entrioia.lovable.app) |
+| **Tempero Gaúcho** | Experiência digital responsiva para apresentar cardápio, localização e reservas da churrascaria. | [Site](https://tempero-gaucho.vercel.app) · [Código](https://github.com/Ferfurlanett0/sitechurrascaria_vercel) |
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Photoshop" 
-    title="Photoshop"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" 
-/>
-
-  
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
+## Tecnologias
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Ferfurlanett0&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferfurlanett0&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+  <img alt="React" title="React" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+  &nbsp;
+  <img alt="TypeScript" title="TypeScript" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+  &nbsp;
+  <img alt="JavaScript" title="JavaScript" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  &nbsp;
+  <img alt="Node.js" title="Node.js" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
+  &nbsp;
+  <img alt="Python" title="Python" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  &nbsp;
+  <img alt="HTML5" title="HTML5" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  &nbsp;
+  <img alt="CSS3" title="CSS3" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+  &nbsp;
+  <img alt="Tailwind CSS" title="Tailwind CSS" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
+  &nbsp;
+  <img alt="MySQL" title="MySQL" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  &nbsp;
+  <img alt="Docker" title="Docker" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
+  &nbsp;
+  <img alt="Git" title="Git" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+  &nbsp;
+  <img alt="AWS" title="AWS" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 </p>
 
+## Formação e certificações
 
+- **Bacharelado em Ciência da Computação** — UNIFEOB, concluído em 2025
+- **Tecnologia em Análise e Desenvolvimento de Sistemas** — UNIFEOB, concluído em 2024
+- **NLW Agents — Avançado** — Rocketseat
+- **AWS Academy Cloud Foundations** — Amazon Web Services
+- **Desenvolvimento Web com AngularJS** e **UX/UI Design** — Unicamp
+- **Imersão IA** e **Imersão Dev** — Alura
 
+## Além do código
 
+Também gosto de games e produzo conteúdo para o canal [MaNoWhITe](https://www.youtube.com/@MaNoWhite) no YouTube.
+
+<p align="center">
+  <a href="https://www.youtube.com/@MaNoWhite"><img alt="Canal MaNoWhITe no YouTube" src="https://img.shields.io/badge/YouTube-MaNoWhITe-FF0000?style=flat-square&logo=youtube&logoColor=white"></a>
+</p>
